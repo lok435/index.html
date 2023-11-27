@@ -1,3 +1,0 @@
-thisis the third line adding gor merge request
-for uat changes
-this is the file for sample
