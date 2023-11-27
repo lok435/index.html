@@ -1,0 +1,24 @@
+[33mcommit 4fc7e3beb5bbc399255875484fb347811976f175[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: f71aa10 523f16d
+Author: lok435 <devopsloknath94@gmail.com>
+Date:   Mon Nov 27 15:31:12 2023 +0000
+
+    Merge branch 'loknath'
+
+[33mcommit 523f16d03e899b5e7247834f376302ca892642c8[m[33m ([m[1;32mloknath[m[33m)[m
+Author: lok435 <devopsloknath94@gmail.com>
+Date:   Mon Nov 27 15:30:20 2023 +0000
+
+    third file
+
+[33mcommit 623edf8fb21341dd37f1daa426a2107ede39d63b[m
+Author: lok435 <devopsloknath94@gmail.com>
+Date:   Mon Nov 27 15:29:53 2023 +0000
+
+    second file
+
+[33mcommit 7b9dffc6a1c1e2aec23523a35ff12f21ddc67fdb[m
+Author: lok435 <devopsloknath94@gmail.com>
+Date:   Mon Nov 27 15:29:20 2023 +0000
+
+    first file
